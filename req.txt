@@ -1,0 +1,8 @@
+xlwings
+openpyxl
+pandas
+python-dateutil
+eikon
+matplotlib
+seaborn
+pytz
